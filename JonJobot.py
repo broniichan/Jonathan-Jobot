@@ -101,4 +101,4 @@ async def higherlower(ctx):
         else:
             await ctx.send("Please enter higher or lower")
 
-client.run("MTA1MzIzMzQzNjM5Mjk1MTg0OA.GioAGN.lYIxZWXcUM2KrxxSP9scmeNzPSxMa6V5ilHAIQ")
+client.run() #this is empty as it's supposed to contain my bot's token
